@@ -4,7 +4,7 @@ close all;
 
 %% Time vector - transition at t = 0.001 s (1 ms)
 t1 = 1e-3;  % transition time
-t = linspace(0, 20e-3, 5000);  % 0 to 20 ms for good visibility
+t = linspace(0, 20e-3, 20000);  % 0 to 20 ms with high resolution for smooth oscillations
 
 %% Create index arrays for the two regions
 idx1 = (t >= 0 & t < t1);
