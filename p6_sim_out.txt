@@ -1,0 +1,16 @@
+       --- AC Analysis ---
+
+frequency:	4774.65	Hz
+V(n003):	mag:         10 phase: -6.36111e-016° 	voltage
+V(n001):	mag:    4.24059 phase:    3.56916° 	voltage
+V(n004):	mag:         10 phase: -1.27222e-015° 	voltage
+V(n005):	mag:    2.35702 phase:        -45° 	voltage
+V(n002):	mag:    4.33422 phase:    18.8825° 	voltage
+I(C1):	mag:    1.71936 phase:    6.58194° 	device_current
+I(L2):	mag:   0.435276 phase:    141.582° 	device_current
+I(L1):	mag:   0.356773 phase:   -53.0389° 	device_current
+I(R3):	mag:    1.44474 phase:    18.8825° 	device_current
+I(R2):	mag:   0.785674 phase:        -45° 	device_current
+I(R1):	mag:    1.92456 phase:    177.379° 	device_current
+I(V2):	mag:    1.92456 phase:   -2.62065° 	device_current
+I(V1):	mag:    1.92456 phase:    177.379° 	device_current
